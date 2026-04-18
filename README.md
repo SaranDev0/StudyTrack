@@ -1,5 +1,5 @@
 # StudyTrack - Student Workspace & Study Tracker
-
+(Only For Android)
 A modern, beautiful web application built with React, Vite, and Tailwind CSS for students to organize study materials, track daily learning activities, and visualize progress through an interactive calendar heatmap.
 
 ## Features
