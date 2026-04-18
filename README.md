@@ -65,3 +65,9 @@ A modern, beautiful web application built with React, Vite, and Tailwind CSS for
 - Automatic data backup on every change
 - No login required - works completely offline
 - Data structure optimized for performance
+
+<p align="center">
+  <img src="assets/homepage.png" width="250"/>
+  <img src="assets/calendar.png" width="250"/>
+  <img src="assets/logs.png" width="250"/>
+</p>
